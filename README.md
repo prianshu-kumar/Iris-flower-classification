@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Classification using Machine Learning
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-red?logo=streamlit)](https://your-streamlit-link-here)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-red?logo=streamlit)]([https://iris-flower-classification-prianshu.streamlit.app/])
 
 A Machine Learning project that classifies Iris flower species using a K-Nearest Neighbors (KNN) model deployed with Streamlit.
 
